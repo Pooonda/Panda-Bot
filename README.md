@@ -1,2 +1,2 @@
 # Panda-Bot
-Yeet...
+Bots prefix is &... Do &help for more help!
